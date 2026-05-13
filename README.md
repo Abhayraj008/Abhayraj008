@@ -88,30 +88,6 @@ C++ based intelligent Tic Tac Toe game with AI opponent using Minimax algorithm.
 Interactive C++ puzzle game based on logic and problem-solving concepts.
 
 ---
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abhayraj008&show_icons=true&theme=tokyonight" />
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Abhayraj008&theme=tokyonight" />
-</p>
-
----
-
-## 💻 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhayraj008&layout=compact&theme=tokyonight" />
-</p>
-
----
 # Contact
 Email: abhayrajgiri456@gmail.com
 ## 👀 Profile Views
@@ -121,6 +97,5 @@ Email: abhayrajgiri456@gmail.com
 </p>
 
 ---
-
 
 <h3 align="center">Thanks for visiting! 🚀</h3>
