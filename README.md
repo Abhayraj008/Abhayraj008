@@ -91,7 +91,7 @@ Interactive C++ puzzle game based on logic and problem-solving concepts.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abhayraj008&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Abhayraj008&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
 </p>
 
 ## 🔥 GitHub Streak
