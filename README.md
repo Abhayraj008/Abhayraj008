@@ -10,9 +10,9 @@
 C | C++ | Java | JavaScript | React | Node.js | Express.js | MongoDB | SQL | Python | STL | Git | Php | cloud 
 
 # Coding Profiles
-- LeetCode
-- GeeksforGeeks
-- GitHub
+- LeetCode https://leetcode.com/u/Abhay_Raj008/
+- GeeksforGeeks https://www.geeksforgeeks.org/profile/abhayrajym3c?tab=activity
+- GitHub 
 
 # Featured Projects
 - Library Management System
