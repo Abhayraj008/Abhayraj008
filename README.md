@@ -12,7 +12,7 @@ Full Stack Developer • Competitive Programmer • Building Scalable Web Applic
 - 💻 Competitive Programmer
 - 🧠 Solved 400+ DSA Problems
 - 🚀 Passionate about Web Development & Backend Systems
-- 🌱 Currently learning scalable backend architecture
+- 🌱 Exploring scalable backend systems and cloud technologies
 
 ---
 
@@ -38,7 +38,7 @@ Full Stack Developer • Competitive Programmer • Building Scalable Web Applic
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/STL-C++-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DSA-Problem%20Solving-blue?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 
@@ -88,6 +88,19 @@ C++ based intelligent Tic Tac Toe game with AI opponent using Minimax algorithm.
 Interactive C++ puzzle game based on logic and problem-solving concepts.
 
 ---
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Abhayraj008&show_icons=true&theme=tokyonight"/>
+</p>
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Abhayraj008&theme=tokyonight"/>
+</p>
+
+
 # Contact
 Email: abhayrajgiri456@gmail.com
 ## 👀 Profile Views
