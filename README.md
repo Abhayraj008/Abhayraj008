@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi , I'm Abhay Raj
 
-<!--
-**Abhayraj008/Abhayraj008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# About Me
+- MCA Student at VIT Bhopal
+- Competitive Programmer
+- Solved 400+ DSA Problems
+- Passionate about Web Development & Backend Systems
 
-Here are some ideas to get you started:
+# Tech Stack
+C | C++ | Java | JavaScript | React | Node.js | Express.js | MongoDB | SQL | Python | STL | Git | Php | cloud 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Coding Profiles
+- LeetCode
+- GeeksforGeeks
+- GitHub
+
+# Featured Projects
+- Library Management System
+- Stock Prediction System
+- Gym Website
+- Tic Tac Toe AI Game
+- OneCart (online Modern Ecommerce website)
+
+# Contact
+Email: abhayrajgiri456@gmail.com
