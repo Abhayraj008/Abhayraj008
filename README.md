@@ -15,11 +15,12 @@ C | C++ | Java | JavaScript | React | Node.js | Express.js | MongoDB | SQL | Pyt
 - GitHub 
 
 # Featured Projects
-- Library Management System
 - Stock Prediction System
-- Gym Website
-- Tic Tac Toe AI Game
-- OneCart (online Modern Ecommerce website)
+- Book Doctor Appointment Online
+- OneCart (online Modern Ecommerce website) Paper Publish Link : https://ijirt.org/publishedpaper/IJIRT194286_PAPER.pdf 
+- Library Management System
+- Tic Tac Toe AI Game using (C++)
+- Number Shifting Game using (C++)
 
 # Contact
 Email: abhayrajgiri456@gmail.com
