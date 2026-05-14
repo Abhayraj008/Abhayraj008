@@ -65,27 +65,136 @@ Full Stack Developer • Competitive Programmer • Building Scalable Web Applic
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-### 📈 Stock Prediction System
-Machine Learning based stock price prediction system using LSTM, technical indicators, and visualization graphs.
+A collection of full stack, machine learning, and problem-solving projects focused on scalable applications, modern UI/UX, and real-world development practices.
 
-### 🏥 Book Doctor Appointment Online
-Full stack doctor appointment booking platform with authentication and responsive UI.
+---
 
-### 🛒 OneCart – Modern Ecommerce Website
-Modern ecommerce platform with product management and responsive design.  
-📄 Research Paper Published:  
+# 🌐 Developer Portfolio
+
+A premium and fully responsive personal portfolio website built using React.js, Vite, and Tailwind CSS.  
+Designed with a modern glassmorphism UI, smooth animations, responsive layouts, and mobile sidebar navigation to showcase my projects, skills, certifications, experience, and DSA journey professionally.
+
+### ✨ Highlights
+- Fully Responsive Design
+- Modern Glassmorphism UI
+- Animated Hero Section
+- Mobile Sidebar Navigation
+- Resume Download Feature
+- Certifications & Experience Sections
+- Optimized Performance
+- Clean Professional Layout
+
+### 🛠️ Tech Stack
+React.js • Vite • Tailwind CSS • JavaScript • Framer Motion
+
+### 🔗 Live Demo
+https://portfolio-abhay-pearl.vercel.app/
+
+---
+
+# 📈 Stock Prediction System
+
+An advanced Machine Learning based stock prediction system developed using LSTM neural networks and technical indicators for forecasting stock prices with interactive visualizations.
+
+### ✨ Features
+- LSTM-based Prediction Model
+- Technical Indicators Integration
+- Moving Averages & RSI
+- Data Visualization Graphs
+- Historical Data Analysis
+- Future Price Forecasting
+
+### 🛠️ Tech Stack
+Python • LSTM • TensorFlow • Pandas • NumPy • Matplotlib
+
+---
+
+# 🏥 Book Doctor Appointment Online
+
+A full stack doctor appointment booking platform that allows users to securely book appointments, manage schedules, and interact through a clean responsive interface.
+
+### ✨ Features
+- User Authentication
+- Doctor Listings
+- Appointment Booking System
+- Responsive Dashboard
+- Secure Backend Integration
+- Mobile Friendly UI
+
+### 🛠️ Tech Stack
+React.js • Node.js • Express.js • MongoDB • JWT
+
+---
+
+# 🛒 OneCart – Modern Ecommerce Platform
+
+A modern ecommerce application with responsive design, product management, authentication, and scalable full stack architecture focused on smooth user experience.
+
+### ✨ Features
+- Fully Responsive Ecommerce UI
+- Product Management
+- Authentication System
+- Shopping Cart Functionality
+- Fast Navigation
+- Modern User Experience
+
+### 🛠️ Tech Stack
+React.js • Node.js • Express.js • MongoDB
+
+### 📄 Research Paper Published
 https://ijirt.org/publishedpaper/IJIRT194286_PAPER.pdf
 
-### 📚 Library Management System
-Web-based library management system developed using HTML, CSS, JavaScript, PHP, and SQL.
+---
 
-### 🎮 Tic Tac Toe AI Game
-C++ based intelligent Tic Tac Toe game with AI opponent using Minimax algorithm.
+# 📚 Library Management System
 
-### 🧩 Number Shifting Game
-Interactive C++ puzzle game based on logic and problem-solving concepts.
+A web-based library management system developed for efficient handling of books, users, authentication, and CRUD operations with proper database management.
+
+### ✨ Features
+- Authentication System
+- Book Management
+- CRUD Operations
+- Database Integration
+- Search Functionality
+- Responsive Interface
+
+### 🛠️ Tech Stack
+HTML • CSS • JavaScript • jQuery • PHP • MySQL
+
+---
+
+# 🎮 Tic Tac Toe AI Game
+
+An intelligent C++ based Tic Tac Toe game featuring AI opponent modes using optimized decision-making and game logic algorithms.
+
+### ✨ Features
+- AI Opponent
+- Minimax Algorithm
+- Multiple Game Modes
+- Smart Move Generation
+- Interactive Gameplay
+- Console-based UI
+
+### 🛠️ Tech Stack
+C++ • DSA • Minimax Algorithm
+
+---
+
+# 🧩 Number Shifting Game
+
+A logic-based interactive puzzle game developed in C++ focused on problem-solving, matrix manipulation, and algorithmic thinking.
+
+### ✨ Features
+- Interactive Gameplay
+- Logic-based Puzzle Mechanics
+- Matrix Operations
+- Problem Solving Concepts
+- Efficient Game Logic
+
+### 🛠️ Tech Stack
+C++ • DSA • Algorithms
 
 
 ## 🔥 GitHub Streak
